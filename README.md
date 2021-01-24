@@ -8,7 +8,10 @@ Go to Settings > Preferences > Auto-Completion and enable funtion completion & f
 
 # USER DEFINE LANGUAGES
 
-To have arduino syntax highlight
+Arduino syntax highlight with your prefered notepad++ theme 
+
+NOTTICE: working to add support to more themes
+
 
 ## Download Manually
 
@@ -16,4 +19,6 @@ To have arduino syntax highlight
 -# Open the folder "arduino-udl" of this repository
 -# Copy a XML file of your favorite theme, and paste in <userDefineLangs/> folder of Notepad++.
 -# Restart Notepad++
--# Open and test with .ino file (example.ino is included in repository)
+-# Open .ino file (example.ino is included in repository)
+-# Go to language menu and the themes that you added to userDefineLangs folder will appear at the bottom
+-# After selecting one of the themes, go to menu Settings -> Style configurator -> select theme and set it accordingly with the theme you selected. For arduino light theme is the first one, "default"
