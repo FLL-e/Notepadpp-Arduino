@@ -13,6 +13,7 @@ To have arduino syntax highlight
 ## Download Manually
 
 -# Download the respository
+-# Open the folder "arduino-udl" of this repository
 -# Copy a XML file of your favorite theme, and paste in <userDefineLangs/> folder of Notepad++.
 -# Restart Notepad++
 -# Open and test with .ino file (example.ino is included in repository)
