@@ -2,7 +2,7 @@
 
 Arduino syntax highlight with your prefered notepad++ theme 
 
-NOTTICE: working to add support to more themes
+NOTICE: working to add support to more themes
 
 
 ## Download Manually
@@ -18,7 +18,7 @@ NOTTICE: working to add support to more themes
 
 # Auto-Completion
 
-NOTTICE: This feature is not working, resolving issue
+NOTICE: This feature is not working, resolving issue
 
 1. Close notepad++
 1. Copy arduino-plugin/APIs content to YOUR_DISK:\Users\YOUR_USERNAME\AppData\Roaming\Notepad++\plugins\APIs 
