@@ -9,7 +9,7 @@ NOTICE: working to add support to more themes
 
 1. Download the respository
 1. Open the folder "arduino-udl" of this repository
-1. Copy a XML file of your favorite theme, and paste in YOUR_DISK:\Users\YOUR_USERNAME\AppData\Roaming\Notepad++\userDefineLangs folder.
+1. Copy the XMLs files of your favorite themes, and paste in YOUR_DISK:\Users\YOUR_USERNAME\AppData\Roaming\Notepad++\userDefineLangs folder.
 1. Restart Notepad++
 1. Open .ino file (example.ino is included in repository)
 1. Go to language menu and the themes that you added to userDefineLangs folder will appear at the bottom
